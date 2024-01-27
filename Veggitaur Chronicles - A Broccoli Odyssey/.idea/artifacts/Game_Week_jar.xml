@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Game-Week:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Game_Week_jar</output-path>
+    <root id="archive" name="Game-Week.jar">
+      <element id="module-output" name="Game-Week" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/GamesWeek/lib/simple-graphics-0.2.1-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/GamesWeek/resources" />
+    </root>
+  </artifact>
+</component>
